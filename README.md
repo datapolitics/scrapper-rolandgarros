@@ -2,11 +2,16 @@
 
 Ce scrapper permet de récupérer l'ensemble des données des tableaux masculin et féminin du tournoi de Roland-Garros sur le site du journal l'équipe.
 
+Vous pouvez également utiliser le résultat déjà généré dans ce repo.
 
-Utilisation : 
+Pour regénérer les données :
+
+
 pip install requirements.txt
 
+
 scrapy crawl rg_lequipe
+
 
 Génère un fichier results.json à la racine du projet avec la structure suivante : 
 
