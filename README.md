@@ -3,7 +3,7 @@
 Ce scrapper permet de récupérer l'ensemble des données des tableaux masculin et féminin du tournoi de Roland-Garros sur le site du journal l'équipe.
 
 ## Input 
-Voir https://www.lequipe.fr/Tennis/roland-garros/epreuve-simple-messieurs/annee-1976/page-tableau-tournoi
+Voir par exemple pour l'année 1976/tournoi masculin : https://www.lequipe.fr/Tennis/roland-garros/epreuve-simple-messieurs/annee-1976/page-tableau-tournoi
 
 ## Output 
 [
